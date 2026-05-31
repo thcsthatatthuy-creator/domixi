@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"main": "electron/main.js",
 	"description": "Skull Hotel Game",
-	"author": "Skull Hotel Team",
+	"author": "Nhật Thiện",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
